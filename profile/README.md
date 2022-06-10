@@ -9,7 +9,13 @@
   <br /><br />
   <p>스터디, 공유하고 싶은 주제, 숨고 구성원과의 프로젝트 등의 용도로 자유롭게 이용할 수 있습니다.</p>
 </div>
-<hr />
+
+- - -
+
+- 숨고에 합류하고 싶으시다면 [여기](https://soomgo.career.greetinghr.com)를 클릭해주세요!
+
+- - -
+
 <div align="right">
   문의: <a href="mailto:harry@soomgo.com">harry@soomgo.com</a>
 </div>
